@@ -26,3 +26,5 @@ fliplr: 0.5
 mosaic: 0.7
 mixup: 0.0916 
 copy paste: 0.115
+paste_in: 0.0  # image copy paste (probability), use 0 for faster training
+loss_ota: 1 # use ComputeLossOTA, use 0 for faster training
