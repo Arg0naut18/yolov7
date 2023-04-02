@@ -1,0 +1,28 @@
+lr0: 0.098
+lrf: 0.0102
+momentum: 0.924
+weight decay: 0.0006 
+warmup_epochs: 2.96
+warmup_momentum: 0.691
+warmup_bias_lr: 0.115
+box: 0.0567
+cls: 0.254
+cls_pw: 1.27
+obj: 1.17
+obj_pw: 1.02
+iou_t: 0.55
+anchor_t: 5.31
+fl_gamma: 0
+hsv_h: 0.0133
+hsv_s: 0.69
+hsv_v: 0.417
+degrees: 0.0735
+translate: 0.0624
+scale: 0.72
+shear: 0.537
+perspective: 0
+flipud: 0.361 
+fliplr: 0.5
+mosaic: 0.7
+mixup: 0.0916 
+copy paste: 0.115
