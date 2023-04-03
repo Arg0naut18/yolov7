@@ -3,4 +3,4 @@ test: ./kaggle/input/newdataset/newDataset/images/Test
 val: ./kaggle/input/newdataset/newDataset/images/Validate
 
 nc: 2
-name: ['FOD', 'Runway Crack']
+names: ['FOD', 'Runway Crack']
